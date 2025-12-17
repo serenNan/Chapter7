@@ -1,0 +1,3002 @@
+[
+    {
+        "sourceType": "历史事件",
+        "targetType": "战争",
+        "relation": "重大战役"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "战争",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "战争",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "战争",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "重大事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "经历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "战争",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "纪念碑"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "战争",
+        "relation": "开始"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "战役"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "战争",
+        "relation": "催生"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "战争",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "器重"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "辅政"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "代表"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "辅佐"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "君臣"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "著名辅臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "西杨"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "南杨"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "评价"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "权力机构",
+        "relation": "现址"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "权力机构",
+        "relation": "统领"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "官员"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "权力机构",
+        "relation": "导致"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "压制"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "权力机构",
+        "relation": "设置于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "迫害"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "职位"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "权力机构",
+        "relation": "相互制衡"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "辅助"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "并列"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "协助"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "征讨"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "父子"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "出生于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "平定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "归顺"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "跟随"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "好友"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "同事"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "战友"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "攻取"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "投奔"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "下属"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "修订"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "笔名"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "地点",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "朋友"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "优秀作家"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "主考官"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "删除"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "信任"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "共事"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "统领"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "成员"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "对立"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "宦官"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "其它",
+        "relation": "解决方法"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "关键人物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "治理结果"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "其它",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "其它",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "其它",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "其它",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "其它",
+        "relation": "事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "地点",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "同僚"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "前驱"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "取代"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "取代"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "提出"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "继承"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "夫妻"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "政策"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "收藏"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "惯用"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "引发"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "重大事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "死于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "死于"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "发生地"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "参战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "结束于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "参战方"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "参考"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "列入"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "源自"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "修改"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "禁绝"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "处刑"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "处死"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "参照"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "规定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "禁绝"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史事件",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "引发"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "争论"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "作品",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "作品",
+        "relation": "创造"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "经历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "拥立"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "学习"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "对手"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "第七位皇帝"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "杀害（存疑）"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "反对"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "位于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "重修"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "监修"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "师从"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "修撰"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "诋毁"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "交战地"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "兵败"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "主战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "评价"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "献策于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "南榜第二名"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "沿用"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "平反"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "忠于"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "侍奉"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "效忠"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "任用"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "罢免"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "经历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "任命"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "敕修"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "重用"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "处决"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "上书"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "选址"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "侍奉"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "死于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "赞颂"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "颁布"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "扫除"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "赐书给"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "其它",
+        "relation": "前身"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "其它",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "其它",
+        "relation": "初期首都"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "出生于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "其它",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "献策于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "战败于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "发动"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "领导"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "主战方"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "主战方"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "开国名将"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "君臣"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "失踪于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "限制"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史事件",
+        "relation": "内容之一"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "废除"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "调整"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "评价"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "著名作家"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "记录"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "称赞"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "撰写"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "撰写"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "夸赞"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "撰写"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "效仿"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "北伐"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "敌对"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "丞相"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "征虏大将军"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "主帅"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "游历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "编写"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "得名于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "逝世于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "女婿"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "合作"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "生擒"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "袭击"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "镇压"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "同党"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "起义波及"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "师父"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "领导"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "起义"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "包围"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "姐妹"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "惯用"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史事件",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "平反于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "并列"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "任职于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "缓解"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "辅政"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "辅政"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "产生于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史事件",
+        "relation": "平定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "母女"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "担任"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "参加"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "大胜"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "相关传闻"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "参加"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "地点",
+        "relation": "列为"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "地点",
+        "relation": "位于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "之一"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "任职"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "地点",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "居于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "地点",
+        "relation": "修建于"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "地点",
+        "relation": "位于"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "地点",
+        "relation": "收藏"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "地点",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "藏于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "地点",
+        "relation": "列入"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "设计"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "交好"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "名臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "至交"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "入职"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "题跋"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "统领"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "将领"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "将领"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "促使结束"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "推荐"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "仇视"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "追随"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "支持"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "经历"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "陪读"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "献丹"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "终止"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "寻人刺杀"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史事件",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "作品",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "作品",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "评价"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "作品",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "作品",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "战争"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "征讨"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "死于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "修建"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "被发配至"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "拜谒"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "葬于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "地点",
+        "relation": "皇陵之一"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "下令平定"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "战争",
+        "relation": "相关战争"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "发动"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "参战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史时期",
+        "relation": "重大事件"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史时期",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史时期",
+        "relation": "文学经典"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名辅臣"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "设置于"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "废置于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "治世"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "册封"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "优秀作家"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "宦官"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "始建于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "生活于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名画派"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名画家"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "重大事件"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "参战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "重大事件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史时期",
+        "relation": "主战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名人物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "首次废后"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "发生时期"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "末帝"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "设立"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "初期首都"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "参战方"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "主战方"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "皇帝之一"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "中兴局面"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名作家"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "大臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名文学家"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "抗倭将领"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "修建于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "名臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "将领"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "皇陵之一"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "皇帝"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "设置"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史时期",
+        "relation": "相关战争"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史时期",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "优秀建筑"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "良臣之一"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "诗人"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "著名剧作家"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "丞相"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "往来"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史时期",
+        "relation": "画作"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "始置于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "经典戏剧"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "国难"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史时期",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "盛行于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "流行"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "贸易往来"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史时期",
+        "relation": "特务机构"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史时期",
+        "relation": "相关建筑"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "生活于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史时期",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史时期",
+        "relation": "修筑"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史时期",
+        "relation": "承平时期"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "权力机构",
+        "relation": "承袭"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机构",
+        "relation": "丞相"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "权力机构",
+        "relation": "设置"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "权力机构",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机关",
+        "relation": "前身"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "权力机关",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "攻克"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "征南将军"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "讨伐"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "征虏大将军"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "战争",
+        "relation": "讨伐"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "平定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "征虏副将军"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "平定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "相关战争"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "征西将军"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "征讨"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "战争",
+        "relation": "管理"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "御医"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "亲征"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "平定"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "获得"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "宦官"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "敕建"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "宠信"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "战争",
+        "relation": "对象"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "战争",
+        "relation": "征伐"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "主帅"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "战争",
+        "relation": "谋划"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "拥立"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "葬于"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "推行"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "主导"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "应对"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "挑起"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "颁布"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "发动"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "被俘于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "俘虏"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "优秀建筑"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "上司"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "效忠于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "世祖"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "姻亲"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "母子"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "弟弟"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "舅舅"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "祖孙"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "兄弟"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "厌恶"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "嫡次子"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "嫡三子"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "嫡长子"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "姐弟"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "师生"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "其他"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "相关人物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "击败"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "代表人物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "良臣之一"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "讨好"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "进入"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "前往"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "并称"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "悬梁于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "诗人"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "墓地"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "创作"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "并称"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "讨伐"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "征西将军"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "推崇"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "著名剧作家"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "出版物"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "丞相"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "镇守"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "影视形象"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "养母"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "官职"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "养父"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "废除"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "改革"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "纸币"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "颁布"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "历史人物",
+        "relation": "发生于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "治世"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "开创"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "设立"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "推行"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "设立"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "地点",
+        "relation": "出口商品"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "组成部分"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "地点",
+        "relation": "兴旺于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "相关地点"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "地点",
+        "relation": "极盛时期"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "地点",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "地点",
+        "relation": "形成于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "地点",
+        "relation": "相关事件"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "地点",
+        "relation": "传播（可能）"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "规定"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "实施"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "间断实行"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "支持"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史事件",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "实行"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "严申"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史事件",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "支持"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "评价"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "著名文学家"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "历史人物",
+        "relation": "作序"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "结盟"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "敌对"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "经历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "发生地"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "君臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "敌对"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "其它",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "合称"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "获罪于"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "类似案件"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "审理"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "法律",
+        "relation": "取代"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "法律",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "法律",
+        "relation": "继承"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "法律",
+        "relation": "成就"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "法律",
+        "relation": "导致"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "法律",
+        "relation": "颁布"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "法律",
+        "relation": "影响"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "法律",
+        "relation": "废除"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "包括"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "开国将领"
+    },
+    {
+        "sourceType": "权力机构",
+        "targetType": "历史人物",
+        "relation": "担任"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "亡于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "结党"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史事件",
+        "relation": "包括"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "告发"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "大破"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "同谋"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "征讨"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "大臣"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "相关人物"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "表亲"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "作品",
+        "relation": "文学经典"
+    },
+    {
+        "sourceType": "作品",
+        "targetType": "其它",
+        "relation": "记录"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "其它",
+        "relation": "相关建筑"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "记录"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "其它",
+        "relation": "进入"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "活捉"
+    },
+    {
+        "sourceType": "历史事件",
+        "targetType": "历史人物",
+        "relation": "严申"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "敌人"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "信仰"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "历史人物",
+        "relation": "亲历"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "不合"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "得罪"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "击败"
+    },
+    {
+        "sourceType": "战争",
+        "targetType": "地点",
+        "relation": "参与"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "拜访"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "共事"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "追随"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "册封"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "部下"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "合作"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "打败"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "同乡"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "招抚"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "杀害"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "斩杀"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "聘用"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "地点",
+        "relation": "拥立"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "养亲"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "加入"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "效力于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "父女"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "托孤"
+    },
+    {
+        "sourceType": "法律",
+        "targetType": "历史事件",
+        "relation": "记载"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "牵涉"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "亡于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史事件",
+        "relation": "失踪于"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "就读于"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "历史人物",
+        "relation": "投降"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "历史人物",
+        "relation": "修建"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "历史人物",
+        "relation": "倒戈"
+    },
+    {
+        "sourceType": "地点",
+        "targetType": "作品",
+        "relation": "包含"
+    },
+    {
+        "sourceType": "历史时期",
+        "targetType": "作品",
+        "relation": "标准青花问世"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "知名于"
+    },
+    {
+        "sourceType": "历史人物",
+        "targetType": "作品",
+        "relation": "属于"
+    },
+    {
+        "sourceType": "其它",
+        "targetType": "作品",
+        "relation": "属于"
+    }
+]

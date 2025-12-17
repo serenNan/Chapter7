@@ -1,0 +1,43 @@
+[
+  {"typeName": "作品",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E4%BD%9C%E5%93%81%401x.png"
+  },
+  {
+    "typeName": "法律",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E6%B3%95%E5%BE%8B%401x.png"
+  },
+  {
+    "typeName": "历史人物",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%401x.png"
+  },
+  {
+    "typeName": "战争",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E6%88%98%E4%BA%89%401x.png"
+  },
+  {
+    "typeName": "历史事件",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E5%8E%86%E5%8F%B2%E4%BA%8B%E4%BB%B6%401x.png"
+  },
+  {
+    "typeName": "其它",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E5%85%B6%E4%BB%96%401x.png"
+  },
+  {
+    "typeName": "权力机构",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E6%9D%83%E5%8A%9B%E6%9C%BA%E6%9E%84%401x.png"
+  },
+  {
+    "typeName": "地点",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E5%9C%B0%E7%82%B9%401x.png"
+  }
+  ,
+  {
+    "typeName": "历史时期",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E5%8E%86%E5%8F%B2%E6%97%B6%E6%9C%9F%401x.png"
+  }
+  ,
+  {
+    "typeName": "权力机关",
+    "url": "https://gstore-bucket.oss-cn-zhangjiakou.aliyuncs.com/hnfnu/%E5%8E%86%E5%8F%B2%E5%9B%BE%E6%A0%87/%E6%9D%83%E5%8A%9B%E6%9C%BA%E5%85%B3%401x.png"
+  }
+]
